@@ -1,1 +1,0 @@
-import{i as e}from"./world-CFTjvlf5.js";export{e as CanvasRenderer};

@@ -1,0 +1,1 @@
+import{i as e}from"./world-ITHkrfv0.js";export{e as CanvasRenderer};

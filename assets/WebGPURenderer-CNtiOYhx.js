@@ -1,0 +1,1 @@
+import{n as e}from"./world-ITHkrfv0.js";export{e as WebGPURenderer};

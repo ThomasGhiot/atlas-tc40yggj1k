@@ -1,1 +1,0 @@
-import{n as e}from"./world-CFTjvlf5.js";export{e as WebGPURenderer};
