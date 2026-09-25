@@ -1,0 +1,1 @@
+import{r as e}from"./world-CFTjvlf5.js";export{e as WebGLRenderer};

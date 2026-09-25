@@ -1,0 +1,42 @@
+{
+ "w": 768,
+ "h": 960,
+ "face": {
+  "x": 294,
+  "y": 170,
+  "w": 212,
+  "hu": 128,
+  "hl": 120,
+  "ly": 268
+ },
+ "frames": 5,
+ "rows": {
+  "up-blink": 0,
+  "up-like": 128,
+  "up-doubt": 256,
+  "up-big": 384,
+  "up-idle": 512,
+  "lo-talk": 640,
+  "lo-talko": 760,
+  "lo-talki": 880,
+  "lo-like": 1000,
+  "lo-doubt": 1120,
+  "lo-big": 1240,
+  "lo-idle": 1360
+ },
+ "eyes": {
+  "x": 312,
+  "y": 212,
+  "w": 167,
+  "h": 67,
+  "shift": 5.8
+ },
+ "gestures": {
+  "cheer": {
+   "x": 148,
+   "y": 0,
+   "w": 620,
+   "h": 1082
+  }
+ }
+}

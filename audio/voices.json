@@ -1,0 +1,97 @@
+{
+ "brann": {
+  "talk": [
+   "voice-brann-talk-0.mp3",
+   "voice-brann-talk-1.mp3",
+   "voice-brann-talk-2.mp3"
+  ],
+  "big": [
+   "voice-brann-big-0.mp3",
+   "voice-brann-big-1.mp3"
+  ],
+  "like": [
+   "voice-brann-like-0.mp3",
+   "voice-brann-like-1.mp3"
+  ],
+  "doubt": [
+   "voice-brann-doubt-0.mp3",
+   "voice-brann-doubt-1.mp3"
+  ]
+ },
+ "ysaline": {
+  "talk": [
+   "voice-ysaline-talk-0.mp3",
+   "voice-ysaline-talk-1.mp3",
+   "voice-ysaline-talk-2.mp3"
+  ],
+  "big": [
+   "voice-ysaline-big-0.mp3",
+   "voice-ysaline-big-1.mp3"
+  ],
+  "like": [
+   "voice-ysaline-like-0.mp3",
+   "voice-ysaline-like-1.mp3"
+  ],
+  "doubt": [
+   "voice-ysaline-doubt-0.mp3",
+   "voice-ysaline-doubt-1.mp3"
+  ]
+ },
+ "aurele": {
+  "talk": [
+   "voice-aurele-talk-0.mp3",
+   "voice-aurele-talk-1.mp3",
+   "voice-aurele-talk-2.mp3"
+  ],
+  "big": [
+   "voice-aurele-big-0.mp3",
+   "voice-aurele-big-1.mp3"
+  ],
+  "like": [
+   "voice-aurele-like-0.mp3",
+   "voice-aurele-like-1.mp3"
+  ],
+  "doubt": [
+   "voice-aurele-doubt-0.mp3",
+   "voice-aurele-doubt-1.mp3"
+  ]
+ },
+ "garance": {
+  "talk": [
+   "voice-garance-talk-0.mp3",
+   "voice-garance-talk-1.mp3",
+   "voice-garance-talk-2.mp3"
+  ],
+  "big": [
+   "voice-garance-big-0.mp3",
+   "voice-garance-big-1.mp3"
+  ],
+  "like": [
+   "voice-garance-like-0.mp3",
+   "voice-garance-like-1.mp3"
+  ],
+  "doubt": [
+   "voice-garance-doubt-0.mp3",
+   "voice-garance-doubt-1.mp3"
+  ]
+ },
+ "olwen": {
+  "talk": [
+   "voice-olwen-talk-0.mp3",
+   "voice-olwen-talk-1.mp3",
+   "voice-olwen-talk-2.mp3"
+  ],
+  "big": [
+   "voice-olwen-big-0.mp3",
+   "voice-olwen-big-1.mp3"
+  ],
+  "like": [
+   "voice-olwen-like-0.mp3",
+   "voice-olwen-like-1.mp3"
+  ],
+  "doubt": [
+   "voice-olwen-doubt-0.mp3",
+   "voice-olwen-doubt-1.mp3"
+  ]
+ }
+}
